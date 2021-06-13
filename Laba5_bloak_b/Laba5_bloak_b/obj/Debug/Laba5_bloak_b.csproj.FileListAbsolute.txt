@@ -1,0 +1,10 @@
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\bin\Debug\Laba5_bloak_b.exe.config
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\bin\Debug\Laba5_bloak_b.exe
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\bin\Debug\Laba5_bloak_b.pdb
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.csprojAssemblyReference.cache
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.Form1.resources
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.Properties.Resources.resources
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.csproj.GenerateResource.cache
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.csproj.CoreCompileInputs.cache
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.exe
+D:\Visual\Laba5_bloak_b\Laba5_bloak_b\obj\Debug\Laba5_bloak_b.pdb

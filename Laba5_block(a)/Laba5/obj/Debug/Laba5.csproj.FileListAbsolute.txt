@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\Admin\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\Admin\source\repos\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.Properties.Resources.resources
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.exe
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5.pdb
+C:\Users\Admin\source\repos\Laba5\Laba5\obj\Debug\Laba5_block_a.Form1.resources
